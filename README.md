@@ -44,6 +44,7 @@
 # - Created and appled grass texture
 # - Morphed terrain to create hills, pits, river and lake
 # - Painted dirt path
+# - Created water material and added water to lake, river, and moat
 
 # Connor Hubble
 # - Created and painted surrounding mountains
