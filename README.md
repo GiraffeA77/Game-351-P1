@@ -13,7 +13,7 @@
 # Dropship R35 asset store page: https://assetstore.unity.com/packages/3d/vehicles/space/dropship-r35-121438
 # PBR Brick Material Free: https://assetstore.unity.com/packages/2d/textures-materials/brick/pbr-brick-material-free-161772  Note: while this asset was imported, it was never used however, it's folder was used to hold Castle textures.
 
-# The following were also imported at some point in developement but ended up getting pulled out for various reasons: (Parenthese contents are the reason they got pulled).
+# The following were also imported at some point in developement but ended up getting pulled out for various reasons: (Parentheses contents are the reason they got pulled).
 # Star Sparrow Modular Spaceship asset store page: https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167 (Couldn't figure out how to implement).
 # Textures Pack # 1. Asphalt. asset store page: https://assetstore.unity.com/packages/2d/textures-materials/roads/textures-pack-1-asphalt-154089 (Ended up getting replaced by custom ash texture).
 # Black Walnut Tree asset store page: https://assetstore.unity.com/packages/3d/environments/black-walnut-tree-282525 (Textures and materials weren't being imported properly)
