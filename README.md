@@ -14,7 +14,13 @@
 # Lemon Trees asset store page: https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372
 # VIS - PBR Grass Textures asset store page: https://assetstore.unity.com/packages/2d/textures-materials/floors/vis-pbr-grass-textures-198071
 # Dropship R35 asset store page: https://assetstore.unity.com/packages/3d/vehicles/space/dropship-r35-121438
-# PBR Brick Material Free: https://assetstore.unity.com/packages/2d/textures-materials/brick/pbr-brick-material-free-161772  Note: while this asset was imported, it was never used however, it's folder was used to hold Castle textures.
+# PBR Brick Material Free asset store page: https://assetstore.unity.com/packages/2d/textures-materials/brick/pbr-brick-material-free-161772  Note: while this asset was imported, it was never used however, it's folder was used to hold Castle textures.
+# PBR Sand Materials Free asset store page: https://assetstore.unity.com/packages/2d/textures-materials/floors/pbr-sand-materials-free-160123
+# Old Rowboat asset store page: https://assetstore.unity.com/packages/3d/vehicles/sea/old-rowboat-31917
+# VILLAGE HOUSES PACK asset store page: https://assetstore.unity.com/packages/3d/characters/village-houses-pack-63695
+# Medieval Barrows and Wagons asset store page: https://assetstore.unity.com/packages/3d/environments/historic/medieval-barrows-and-wagons-33411
+# Medieval barrels and boxes asset store page: https://assetstore.unity.com/packages/3d/props/exterior/medieval-barrels-and-boxes-137474
+# Modular Medieval Lanterns asset store page: https://assetstore.unity.com/packages/3d/environments/historic/modular-medieval-lanterns-85527 (Note: only the lampposts in this pack were actually used.)
 
 # The following were also imported at some point in developement but ended up getting pulled out for various reasons: (Parentheses contents are the reason they got pulled).
 # Star Sparrow Modular Spaceship asset store page: https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167 (Couldn't figure out how to implement).
@@ -48,6 +54,10 @@
 # - Morphed terrain to create hills, pits, river and lake
 # - Painted dirt path
 # - Created water material and added water to lake, river, and moat
+# - created separate lake
+# - Painted terrain around/in lakes and river to look like sand
+# - added rowboat to lakes
+# - Created Village and all decor associated with Village
 
 # Connor Hubble
 # - raised terrain to  differing heights at the boarders of the map
