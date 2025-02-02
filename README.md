@@ -50,7 +50,10 @@
 # - Created water material and added water to lake, river, and moat
 
 # Connor Hubble
-# - Created and painted surrounding mountains
+# - raised terrain to  differing heights at the boarders of the map
+# - used differing terrian to create mountain range with depth and levels 
+# - used various texture packs to apply texture to landscape
+# - used smooth height feature to make the mountains look more realistic and less jagged
 
 # Samiur Rahman
 # - Painted forest path.
