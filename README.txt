@@ -56,6 +56,7 @@
 # - Created water material and added water to lake, river, and moat
 # - created separate lake
 # - Painted terrain around/in lakes and river to look like sand
+# - Added trees around other lake
 # - added rowboat to lakes
 # - Created Village and all decor associated with Village
 
