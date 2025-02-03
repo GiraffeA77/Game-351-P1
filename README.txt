@@ -75,7 +75,7 @@ Choice elements implemented:
 - Village
 
 Process of Installation:
-Step 1. Unzip the folder and put the resulting folder somewhere on your computer.
+Step 1. Unzip the file and put the resulting folder somewhere on your computer.
 Step 2. In the Unity hub click Open and from there click add project from disk.
 Step 3. Find where you stored the folder, select it then click add project.
 Step 4. Open the newly created Unity project.
@@ -83,3 +83,12 @@ Step 5. Once open and loaded, press play and enjoy.
 
 Known Errata (assuming that means issues):
 - Village biuldings and objects not solid so player is able to walk right through them.
+
+Key Mappings:
+- W - forward
+- S - backwards
+- A - left
+- D - right
+
+Pipeline:
+Universal Rendering Pipeline
