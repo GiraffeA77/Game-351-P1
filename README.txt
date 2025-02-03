@@ -91,4 +91,4 @@ Key Mappings:
 - D - right
 
 Pipeline:
-Universal Rendering Pipeline
+Universal Rendering Pipeline (URP)
